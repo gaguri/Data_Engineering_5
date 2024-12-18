@@ -1,0 +1,32 @@
+[
+ {
+  "_id": 2009,
+  "max_valence": 0.6960000000000001,
+  "min_valence": 0.133,
+  "avg_valence": 0.30514285714285716
+ },
+ {
+  "_id": 2013,
+  "max_valence": 0.969,
+  "min_valence": 0.226,
+  "avg_valence": 0.5284545454545455
+ },
+ {
+  "_id": 2015,
+  "max_valence": 0.913,
+  "min_valence": 0.217,
+  "avg_valence": 0.5446428571428571
+ },
+ {
+  "_id": 2018,
+  "max_valence": 0.797,
+  "min_valence": 0.224,
+  "avg_valence": 0.438
+ },
+ {
+  "_id": 2021,
+  "max_valence": 0.854,
+  "min_valence": 0.0882,
+  "avg_valence": 0.6069199999999999
+ }
+]

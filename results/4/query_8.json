@@ -1,0 +1,14 @@
+[
+ {
+  "_id": "major",
+  "max_duration_ms": 370808,
+  "min_duration_ms": 61986,
+  "avg_duration_ms": 229155.1264367816
+ },
+ {
+  "_id": "minor",
+  "max_duration_ms": 335092,
+  "min_duration_ms": 28787,
+  "avg_duration_ms": 236222.35714285713
+ }
+]

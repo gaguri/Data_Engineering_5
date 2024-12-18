@@ -1,0 +1,104 @@
+[
+ {
+  "_id": "Психолог",
+  "max_salary": 197947,
+  "min_salary": 26890,
+  "avg_salary": 122376.21052631579
+ },
+ {
+  "_id": "Медсестра",
+  "max_salary": 193106,
+  "min_salary": 26641,
+  "avg_salary": 107999.72093023256
+ },
+ {
+  "_id": "Водитель",
+  "max_salary": 199094,
+  "min_salary": 22295,
+  "avg_salary": 103084.41025641025
+ },
+ {
+  "_id": "Программист",
+  "max_salary": 198009,
+  "min_salary": 27101,
+  "avg_salary": 104734.27586206897
+ },
+ {
+  "_id": "Повар",
+  "max_salary": 189134,
+  "min_salary": 21945,
+  "avg_salary": 101853.61111111111
+ },
+ {
+  "_id": null,
+  "max_salary": null,
+  "min_salary": null,
+  "avg_salary": null
+ },
+ {
+  "_id": "IT-специалист",
+  "max_salary": 193672,
+  "min_salary": 30061,
+  "avg_salary": 101727.96551724138
+ },
+ {
+  "_id": "Инженер",
+  "max_salary": 193433,
+  "min_salary": 23445,
+  "avg_salary": 115671.15
+ },
+ {
+  "_id": "Врач",
+  "max_salary": 196137,
+  "min_salary": 20070,
+  "avg_salary": 95570.77142857143
+ },
+ {
+  "_id": "Бухгалтер",
+  "max_salary": 197721,
+  "min_salary": 20315,
+  "avg_salary": 102292.20833333333
+ },
+ {
+  "_id": "Продавец",
+  "max_salary": 191551,
+  "min_salary": 27243,
+  "avg_salary": 100658.05714285714
+ },
+ {
+  "_id": "Архитектор",
+  "max_salary": 199046,
+  "min_salary": 22745,
+  "avg_salary": 113957.53846153847
+ },
+ {
+  "_id": "Учитель",
+  "max_salary": 190993,
+  "min_salary": 31478,
+  "avg_salary": 106034.90909090909
+ },
+ {
+  "_id": "Строитель",
+  "max_salary": 199761,
+  "min_salary": 21575,
+  "avg_salary": 112499.57692307692
+ },
+ {
+  "_id": "Косметолог",
+  "max_salary": 173953,
+  "min_salary": 22522,
+  "avg_salary": 77930.75
+ },
+ {
+  "_id": "Менеджер",
+  "max_salary": 198877,
+  "min_salary": 21641,
+  "avg_salary": 106999.08571428571
+ },
+ {
+  "_id": "Оператор call-центра",
+  "max_salary": 195300,
+  "min_salary": 27354,
+  "avg_salary": 114361.02127659574
+ }
+]

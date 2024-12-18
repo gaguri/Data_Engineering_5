@@ -1,0 +1,62 @@
+[
+ {
+  "_id": "G# major",
+  "max_danceability": 0.731,
+  "min_danceability": 0.519,
+  "avg_danceability": 0.65325
+ },
+ {
+  "_id": "F# minor",
+  "max_danceability": 0.794,
+  "min_danceability": 0.565,
+  "avg_danceability": 0.7144
+ },
+ {
+  "_id": "C# major",
+  "max_danceability": 0.749,
+  "min_danceability": 0.624,
+  "avg_danceability": 0.687875
+ },
+ {
+  "_id": "E major",
+  "max_danceability": 0.641,
+  "min_danceability": 0.641,
+  "avg_danceability": 0.641
+ },
+ {
+  "_id": "E minor",
+  "max_danceability": 0.734,
+  "min_danceability": 0.427,
+  "avg_danceability": 0.59275
+ },
+ {
+  "_id": "F major",
+  "max_danceability": 0.8160000000000001,
+  "min_danceability": 0.618,
+  "avg_danceability": 0.7093333333333334
+ },
+ {
+  "_id": "D# major",
+  "max_danceability": 0.683,
+  "min_danceability": 0.582,
+  "avg_danceability": 0.6325000000000001
+ },
+ {
+  "_id": "A# minor",
+  "max_danceability": 0.798,
+  "min_danceability": 0.609,
+  "avg_danceability": 0.739
+ },
+ {
+  "_id": "F# major",
+  "max_danceability": 0.84,
+  "min_danceability": 0.426,
+  "avg_danceability": 0.6757142857142856
+ },
+ {
+  "_id": "D minor",
+  "max_danceability": 0.719,
+  "min_danceability": 0.683,
+  "avg_danceability": 0.7056666666666667
+ }
+]

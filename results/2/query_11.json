@@ -1,0 +1,23 @@
+[
+ {
+  "_id": 2015,
+  "max_age": 34,
+  "min_age": 34,
+  "avg_age": 34.0,
+  "avg_salary": 84244.0
+ },
+ {
+  "_id": 2016,
+  "max_age": 55,
+  "min_age": 55,
+  "avg_age": 55.0,
+  "avg_salary": 114533.0
+ },
+ {
+  "_id": 2017,
+  "max_age": 63,
+  "min_age": 24,
+  "avg_age": 42.75,
+  "avg_salary": 106311.5
+ }
+]
